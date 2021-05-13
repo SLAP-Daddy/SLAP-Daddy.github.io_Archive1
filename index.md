@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Portfolio
 
-You can use the [editor on GitHub](https://github.com/SLAP-Daddy/SLAP.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
+## Web Design
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **[Gretaful Head Hair Studio Website](https://www.gratefulheadstudio.com/)**
+<br>
+<br>
+I worked with the hair studio owner to collect and sharpen the vision for her website. Developed site on Wix. Development highlights include lightbox pop ups for COVID-19 guidelines, allowing visitors to download/print PDFs ahead of thier appointment, and a contact me form that submits responses directly to email. 
+<br>
+<br>
+<img src="GratefulHeadWebsiteSS_1.PNG"/>
+<br>
 
-### Markdown
+---
+## Javascript
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **[Daily Horoscope Discord Bot](https://github.com/madhurapg/Remote-Sensing/blob/master/gif.ipynb)**
+<br>
+<br>
+I created a discord bot that scans for text commands on a discord server and responds to parameterized imputs. Also sends daily horoscopes to a certian channel every day at 10AM CST via a scheduled job. Bot lives on a Wi-Fi enabled arduino. Calls to a rest API fir the daily horoscope information.  
+<br>
+<br>
+<img src="ScopeBot_SS_1.png"/>
 
-```markdown
-Syntax highlighted code block
+<br>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SLAP-Daddy/SLAP.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
