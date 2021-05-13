@@ -9,13 +9,11 @@
 I worked with the hair studio owner to collect and sharpen the vision for her website. Developed site on Wix. Development highlights include lightbox pop ups for COVID-19 guidelines, allowing visitors to download/print PDFs ahead of thier appointment, and a contact me form that submits responses directly to email. 
 <br>
 <br>
-<img src="GratefulHeadWebsiteSS_1.PNG"/>
+<"/images/GratefulHeadWebsiteSS_1.png?raw=true">
 <br>
 
 ---
-## Javascript
-
-- **[Daily Horoscope Discord Bot](https://github.com/madhurapg/Remote-Sensing/blob/master/gif.ipynb)**
+## Daily Horoscope Discord Bot
 <br>
 <br>
 I created a discord bot that scans for text commands on a discord server and responds to parameterized imputs. Also sends daily horoscopes to a certian channel every day at 10AM CST via a scheduled job. Bot lives on a Wi-Fi enabled arduino. Calls to a rest API fir the daily horoscope information.  
