@@ -1,3 +1,11 @@
+title: Shaun Lee Andler Pascual 
+logo: "/images/profile_pic.png?raw=true" 
+description: > 
+  Profile is under construction! Last updated 5/13/2021
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/shaunleejandlerpascual/">View My LinkedIn Profile</a> 
+  
 theme: jekyll-theme-minimal
-title: Welcome to SLAP's collection of personal projects!
-description: Page is currently under construction. Last edited 5/13.
+google_analytics: 272249302 # your Google Analytics tracking ID here
