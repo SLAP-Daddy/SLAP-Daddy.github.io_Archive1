@@ -15,7 +15,6 @@ I worked with the hair studio owner to collect and sharpen the vision for her we
 ---
 ## Daily Horoscope Discord Bot
 <br>
-<br>
 I created a discord bot that scans for text commands on a discord server and responds to parameterized imputs. Also sends daily horoscopes to a certian channel every day at 10AM CST via a scheduled job. Bot lives on a Wi-Fi enabled arduino. Calls to a rest API fir the daily horoscope information.  
 <br>
 <br>
