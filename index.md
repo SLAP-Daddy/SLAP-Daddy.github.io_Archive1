@@ -30,6 +30,7 @@ GIF Examples Under Construction
 <br>
 <br>
 
+---
 ## PC Build
 
 I recently spent a lot of time and effort designing and bringing to life a dream PC build.
