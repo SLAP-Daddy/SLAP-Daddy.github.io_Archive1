@@ -14,10 +14,25 @@ I worked with the hair studio owner to collect and sharpen the vision for her we
 
 ---
 ## Daily Horoscope Discord Bot
-<br>
 I created a discord bot that scans for text commands on a discord server and responds to parameterized imputs. Also sends daily horoscopes to a certian channel every day at 10AM CST via a scheduled job. Bot lives on a Wi-Fi enabled arduino. Calls to a rest API for daily horoscope information.  
 <br>
 <br>
 <img src="images/ScopeBot_SS_1.PNG?raw=true"/>
 <br>
 
+---
+## Desk LED Lights
+<br>
+I designed a LED lighting setup to give little brother and I's dreary basement gaming setup a little more pizzaz. I soldered together various stips of addressable LEDs and hooked them into an arduino. A few custom configuations meant to pair well with keybord/rig color schemes were coded and rest on the device. You can cycle through them with a button. 
+<br>
+<br>
+GIF Examples Under Construction
+<br>
+
+## PC Build
+<br>
+I recently spent a lot of time and effort designing and bringing to life a dream PC build.
+<br>
+<br>
+Pretty Pictures, HERE
+<br>
