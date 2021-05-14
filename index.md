@@ -3,7 +3,7 @@
 ---
 ## Web Design
 
-- **[Grateful Head Hair Studio Website](https://www.gratefulheadstudio.com/)**
+**[Grateful Head Hair Studio Website](https://www.gratefulheadstudio.com/)**
 <br>
 <br>
 I worked with the hair studio owner to collect and sharpen the vision for her website. Developed site on Wix. Development highlights include lightbox pop ups for COVID-19 guidelines, allowing visitors to download/print PDFs ahead of thier appointment, and a contact me form that submits responses directly to email. 
