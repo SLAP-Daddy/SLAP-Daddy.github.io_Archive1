@@ -21,7 +21,6 @@ I created a discord bot that scans for text commands on a discord server and res
 
 ---
 ## Desk LED Lights
-<br>
 I designed a LED lighting setup to give little brother and I's dreary basement gaming setup a little more pizzaz. I soldered together various stips of addressable LEDs and hooked them into an arduino. A few custom configuations meant to pair well with keybord/rig color schemes were coded and rest on the device. You can cycle through them with a button. 
 <br>
 <br>
