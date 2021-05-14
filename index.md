@@ -28,9 +28,10 @@ I designed a LED lighting setup to give little brother and I's dreary basement g
 <br>
 GIF Examples Under Construction
 <br>
+<br>
 
 ## PC Build
-<br>
+
 I recently spent a lot of time and effort designing and bringing to life a dream PC build.
 <br>
 <br>
