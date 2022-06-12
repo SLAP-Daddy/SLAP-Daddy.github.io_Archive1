@@ -52,5 +52,5 @@ Pretty Pictures, COMING SOON!!!
 My dream as a kid was to be an entomologist! I used to raise and release all kinds of creatures to adulthood. Nowadays I stick to just taking pictures of them to catalog which ones I've seen in real life! 
 <br>
 <br>
-**[Insect Pictures, Here!](https://slap-daddy.github.io/Projects/Insect_Photography.html)**
+**[Insect Pictures, Here!](https://github.com/SLAP-Daddy/SLAP-Daddy.github.io/blob/gh-pages/Projects/Insect_Photography.html)**
 <br>
