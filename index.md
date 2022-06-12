@@ -33,7 +33,7 @@ GIF Examples Under Construction
 I put together the plans and executed the work to create a LED "Neon" Sign for my friend's dad. He started acumulating pinball machines in his garage and I thought it right to gift him something in return for all the wear and tear I was putting on his machines, as well as crushing his high scores. Put together the wood base, routed the design, and slotted then wired the LEDs. Will likely be doing more of these when time allows! 
 <br>
 <br>
-<img src="images/Adams_Arcade_1.JPG?raw=true"/>
+<img src="images/Adams_Arcade_1.jpg?raw=true"/>
 <br>
 <br>
 
