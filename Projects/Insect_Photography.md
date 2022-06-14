@@ -23,4 +23,3 @@ My dream as a kid was to be an entomologist! I used to raise all kinds of creatu
 <br>
 <img src="Images/BugPic_10.jpg?raw=true"/>
 <br>
-<img src="Images/GratefulHeadWebsiteSS_1.png?raw=true"/>
